@@ -1,6 +1,6 @@
 ------Hi there 👋 I’m Edidiong------
-Junior Full-Stack Developer** based in Lagos, Nigeria.
-I build responsive web applications. I enjoy turning ideas into clean, user-friendly products and I’m currently focused on growing into a **production-ready full-stack engineer**.
+Junior Full-Stack Developer based in Lagos, Nigeria.
+I build responsive web applications. I enjoy turning ideas into clean, user-friendly products and I’m currently focused on growing into a **production-ready full-stack engineer and mobile app developer**.
 
 ------Current Focus------
 * Building full-stack portfolio projects
