@@ -28,12 +28,15 @@ Git · GitHub · VS Code · Postman · Vercel
 
 
 
-------GitHub Stats------
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edie-dev&show_icons=true&hide_border=true)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edie-dev&layout=compact&hide_border=true)
+![Edidiong's GitHub stats](https://github-readme-stats.vercel.app/api?username=edie-dev&show_icons=true&theme=tokyonight&hide_border=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edie-dev&layout=compact&theme=tokyonight&hide_border=true)
+
+---
 
 
 Let’s Connect
