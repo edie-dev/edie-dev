@@ -1,4 +1,5 @@
 ------Hi there 👋 I’m Edidiong------
+
 Junior Full-Stack Developer based in Lagos, Nigeria.
 I build responsive web applications. I enjoy turning ideas into clean, user-friendly products and I’m currently focused on growing into a **production-ready full-stack engineer and mobile app developer**.
 
@@ -22,12 +23,17 @@ Git · GitHub · VS Code · Postman · Vercel
 -------Featured Projects------
 
 **SweetCrust Bakery E-Commerce**
+
 Modern e-commerce bakery website with responsive UI and product showcase.
+
 https://sweet-crust-rho.vercel.app/
 
+
 **LearnNexus Informative Site**
+
 Educational platform landing site built during my internship experience.
-learnnexusedu.com
+
+https://www.learnnexusedu.com/
 
 
 ### 📊 GitHub Stats
