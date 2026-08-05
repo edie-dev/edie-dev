@@ -23,8 +23,8 @@ Git · GitHub · VS Code · Postman · Vercel
 
 
 -------My Portfolio------
-
 **https://edie-dev-portfolio.vercel.app/**
+
 
 
 ------GitHub Stats------
@@ -32,6 +32,7 @@ Git · GitHub · VS Code · Postman · Vercel
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edie-dev&show_icons=true&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edie-dev&layout=compact&hide_border=true)
+
 
 
 Let’s Connect
