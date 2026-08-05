@@ -24,7 +24,8 @@ Git · GitHub · VS Code · Postman · Vercel
 
 -------My Portfolio------
 
-**https://edie-dev-portfolio.vercel.app/**
+Explore my projects and live demos here:
+**[My Portfolio](https://edie-dev-portfolio.vercel.app/)**
 
 
 
@@ -32,17 +33,15 @@ Git · GitHub · VS Code · Postman · Vercel
 
 ## 📊 GitHub Stats
 
-![Edidiong's GitHub stats](https://github-readme-stats.vercel.app/api?username=edie-dev&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edie-dev&layout=compact&theme=tokyonight&hide_border=true)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=edie-dev&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edie-dev&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
 ---
 
 
-Let’s Connect
-* **LinkedIn:** https://linkedin.com/in/edidiong-edidiong
-* **Email:** edidiong.dev@gmail.com
-
+- 💼 **LinkedIn:** [edidiong-edidiong](https://linkedin.com/in/edidiong-edidiong)
+- 📧 **Email:** [edidiong.dev@gmail.com](mailto:edidiong.dev@gmail.com)
 
 ✨ *I’m actively building projects, improving my backend skills, and looking for opportunities to contribute to real-world products.*
 
